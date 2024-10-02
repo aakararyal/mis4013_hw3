@@ -1,4 +1,4 @@
-<h1>Instructors with courses/h1>
+<h1>Instructors with courses</h1>
 <div class="card-group">
  
   <?php
